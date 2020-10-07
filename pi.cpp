@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	freopen("CadaeicCadenza.txt","r",stdin);
+	freopen("Cadaeic Cadenza.txt","r",stdin);
 	freopen("pi.txt","w",stdout);
 	char c,t='\0';
 	int cnt=0;
